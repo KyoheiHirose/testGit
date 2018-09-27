@@ -1,1 +1,1 @@
-print("Your UpDate succeed!!")
+print("You update mac -> linux")
